@@ -1,0 +1,19 @@
+.search-form {
+  height: 75px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: tomato;
+  align-items: center;
+  &__input {
+    height: 50px;
+    border: 2px solid black;
+    border-right: none;
+    border-radius: 5px 0 0 5px;
+  }
+  &__button {
+    height: 50px;
+    border-left: none;
+    border-radius: 0 5px 5px 0;
+  }
+}

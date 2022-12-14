@@ -1,0 +1,20 @@
+@import '~node_modules/modern-normalize/modern-normalize.css';
+.search-form {
+  height: 75px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: tomato;
+  align-items: center;
+}
+.search-form__input {
+  height: 50px;
+  border: 2px solid black;
+  border-right: none;
+  border-radius: 5px 0 0 5px;
+}
+.search-form__button {
+  height: 50px;
+  border-left: none;
+  border-radius: 0 5px 5px 0;
+}/*# sourceMappingURL=index.css.map */

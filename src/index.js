@@ -3,7 +3,6 @@ import 'simplelightbox/dist/simple-lightbox.min.css';
 import Notiflix from 'notiflix';
 
 import { fetchImages } from './fetchImg';
-import simpleLightbox from 'simplelightbox';
 
 const searchQuery = document.querySelector('input');
 const form = document.querySelector('.search-form');
@@ -81,7 +80,7 @@ function renderGallery(name) {
           </div>
           <div class="info-box">
             <p class="info-item">
-              <b class="material-symbols-outlined">Downloads</b>
+              <b>Downloads</b>
             </p>
             <p class="info-counter">${hit.downloads.toLocaleString()}</p>
           </div>

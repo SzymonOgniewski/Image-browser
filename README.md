@@ -1,4 +1,4 @@
-# [Image browser](https://szymonogniewski.github.io/Image-browser/)
+# [Image browser](https://szymonogniewski.github.io/Image_browser/)
 
 Image browser based on [Pixabay](https://pixabay.com/api/docs/) API.
 

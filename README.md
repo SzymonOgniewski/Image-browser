@@ -1,3 +1,7 @@
-## [Image browser](https://szymonogniewski.github.io/Image-browser/)
+# [Image browser](https://szymonogniewski.github.io/Image-browser/)
 
-Image browser is a practice task made using JavaScript, Parcel, [Axios](https://axios-http.com/), [Notiflix](https://github.com/notiflix/Notiflix#readme) and [Pixabay](https://pixabay.com/api/docs/) API.
+Image browser based on [Pixabay](https://pixabay.com/api/docs/) API.
+
+## Technologies
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
